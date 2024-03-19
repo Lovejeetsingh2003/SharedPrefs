@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPrefs</string>
+    <string name="tvName">Enter Your Name:</string>
+    <string name="tvRollNo">Enter Your Roll No :</string>
+    <string name="etName">Enter Your Name</string>
+    <string name="etRollNo">Enter Your Roll NO</string>
+    <string name="btnSave">Save</string>
+</resources>
