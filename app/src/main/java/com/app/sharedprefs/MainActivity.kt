@@ -47,8 +47,6 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this,"Data Saved",Toast.LENGTH_LONG).show()
     }
-
-    // shared prefs done
     
     private fun loadData()
     {
